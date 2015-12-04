@@ -1,5 +1,5 @@
 {
-  "name": "gulp-virtualfile",
+  "name": "gulp-link",
   "version": "0.0.0",
   "description": "works with gulp, but does nothing. Use it to bootstrap your own gulp plugin with TypeScript, Travis and npm.",
   "main": "index.js",
